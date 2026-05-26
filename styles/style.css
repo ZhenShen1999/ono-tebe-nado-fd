@@ -93,6 +93,7 @@
 .text_cover {
   display: block;
   line-height: 125px;
+  letter-spacing: 30px; /* буква о разрыв 30, буквы те разрыв 30, буквы ад разрыв 30 */
 }
 
 .text_center {
@@ -103,10 +104,6 @@
 .text_right {
   text-align: right;
   line-height: 120px;  
-}
-
-.text_cover { 
-  letter-spacing: 30px; /* буква о разрыв 30, буквы те разрыв 30, буквы ад разрыв 30 */
 }
 
 .text_cover .no_letter_spacing {
